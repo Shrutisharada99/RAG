@@ -17,7 +17,7 @@ import shutil
 import re
 
 # Google Gemini API Key
-GEMINI_API_KEY = "AIzaSyCig7t0DrDBQbO7LT9GiXsVtmuy6PKCQGI"
+GEMINI_API_KEY = "" # Gemini API Key
 
 # Split the document into Chunks & Store them in Vector Store
 def ingest():
